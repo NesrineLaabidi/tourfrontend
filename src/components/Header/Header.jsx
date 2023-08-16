@@ -9,7 +9,7 @@ import {AuthContext} from './../../context/AuthContext'
 
 const nav__links=[
   {
-    path:'/home',
+    path:'/',
     display:'Home'
   },
   {

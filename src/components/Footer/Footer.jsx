@@ -7,7 +7,7 @@ import logo from '../../assets/images/logo.png'
 
 const quick__links=[
   {
-    path:'/home',
+    path:'/',
     display:'Home'
   },
   {
